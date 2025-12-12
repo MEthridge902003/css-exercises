@@ -1,1 +1,17 @@
-/* Add CSS Styling */
+/* My AI is mad that I didn't use classes */
+p {
+    background-color:#f08f8f;
+    font-family: veranda, dejavu sans, sans-serif;
+}
+div {
+    color:blue;
+    font-size: 36px;
+}
+#three {
+    font-size: 24px;
+}
+#four {
+    background-color:#86f078;
+    font-size: 24px;
+    font-weight: bold;
+}
