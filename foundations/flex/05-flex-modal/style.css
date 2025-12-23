@@ -21,6 +21,24 @@ body {
   border-radius: 10px;
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
 }
+.all{
+  display:flex;
+}
+.left {
+  display:flex; margin:5px;
+}
+.right {
+  margin:5px;
+}
+.top {
+  display:flex; font-weight:bold; margin:5px;
+}
+.middle {
+  margin:5px;
+}
+.bottom {
+  display: flex; margin:5px;
+}
 
 .icon {
   color: royalblue;
@@ -48,6 +66,7 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
+  margin-left:auto
 }
 
 button {
